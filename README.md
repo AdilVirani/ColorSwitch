@@ -1,6 +1,6 @@
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
-For beginners to learn concepts in [Redux](https://github.com/rackt/redux), [React](https://github.com/facebook/react), [React-Router](https://github.com/reactjs/react-router), 
+For beginners to learn concepts and BEST PRACTICES in [Redux](https://github.com/rackt/redux), [React](https://github.com/facebook/react), [React-Router](https://github.com/reactjs/react-router), 
 [Webpack](https://github.com/jackielii/simplest-redux-example/tree/webpack), [SASS](https://github.com/sass/sass), and ES6
 
 All this project does is switch a color of a div onClick...
